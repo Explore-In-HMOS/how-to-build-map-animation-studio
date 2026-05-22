@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Map Animation Studio for HarmonyOS Wearable"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Map Animation Studio Entry Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Map Animation Studio"
+    },
+    {
+      "name": "location_permission_reason",
+      "value": "Required to display your location on the map"
+    },
+    {
+      "name": "approx_location_permission_reason",
+      "value": "Required to display your approximate location on the map"
+    },
+    {
+      "name": "splash_title",
+      "value": "Map Animation Studio"
+    },
+    {
+      "name": "splash_subtitle",
+      "value": "Fluid Map Animations on Your Wrist"
+    },
+    {
+      "name": "splash_start",
+      "value": "Open Studio"
+    },
+    {
+      "name": "studio_title",
+      "value": "Animation \n Studio"
+    },
+    {
+      "name": "animation_rotate",
+      "value": "Rotate"
+    },
+    {
+      "name": "animation_scale",
+      "value": "Scale"
+    },
+    {
+      "name": "animation_translate",
+      "value": "Translate"
+    },
+    {
+      "name": "animation_play_image",
+      "value": "Play Image"
+    },
+    {
+      "name": "animation_set",
+      "value": "Animate All"
+    },
+    {
+      "name": "settings_title",
+      "value": "Animation Settings"
+    },
+    {
+      "name": "settings_duration",
+      "value": "Duration (ms)"
+    },
+    {
+      "name": "settings_repeat",
+      "value": "Repeat Count"
+    },
+    {
+      "name": "settings_save",
+      "value": "Apply"
+    },
+    {
+      "name": "info_title",
+      "value": "Animation Info"
+    },
+    {
+      "name": "info_rotate_desc",
+      "value": "RotateAnimation spins the map view for compass-aligned navigation."
+    },
+    {
+      "name": "info_scale_desc",
+      "value": "ScaleAnimation zooms smoothly between overview and detail levels."
+    },
+    {
+      "name": "info_translate_desc",
+      "value": "TranslateAnimation pans to new locations with easing curves."
+    },
+    {
+      "name": "info_play_image_desc",
+      "value": "PlayImageAnimation cycles through frame sequences for animated overlays."
+    },
+    {
+      "name": "info_set_desc",
+      "value": "AnimationSet groups multiple animations for coordinated playback."
+    },
+    {
+      "name": "btn_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "btn_info",
+      "value": "Info"
+    },
+    {
+      "name": "btn_back",
+      "value": "Back"
+    }
+  ]
+}
